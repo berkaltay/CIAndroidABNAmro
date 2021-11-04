@@ -1,0 +1,2 @@
+com.abnamro.apps.referenceandroid.test
+string app_name

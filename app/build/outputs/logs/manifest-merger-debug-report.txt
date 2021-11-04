@@ -1,0 +1,201 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/5b69024249717f8e3ed5b2bbee8b5fd9/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/582ca692153ed8b3736f59cd51d94f7f/constraintlayout-2.1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/5a86747797247a65025e60d8f4ae93fb/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.microsoft.appcenter:appcenter-analytics:4.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/fd6348bd075ce5fcab725cb990380bf2/jetified-appcenter-analytics-4.3.1/AndroidManifest.xml:6:1-15:12
+MERGED from [com.microsoft.appcenter:appcenter-crashes:4.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/7e7269d99bfbd31277914d9f2eed98c0/jetified-appcenter-crashes-4.3.1/AndroidManifest.xml:6:1-15:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/cb2f96d552a6c99c3f7bacf9dcccddce/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/70710028c79e1a7ae3b3682207f9e033/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/39f710bea80f8a757dbcc48680d1b08f/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/d5975f29b8fcf0bf9ea8b6dc3af61e87/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/75d8f1b8953da6d642f7e4e5c203bb68/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/d0051fc3722aa65dab192caab9e03931/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/8db662a867120feba6ce1c8ca1404f6f/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/ba8d23e2ae8498851f1c48527695a88c/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/d178efe9520d51d195bc154575b131d5/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/13d2724e225fc08e6fce7109bf77608c/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/2b53d45d39d47260d5de45439c0c50b2/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/35b7881dc0174b6c5c0cfa4aa95ff02b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/443f4e0f23b943592c36fdfc7fc4839f/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/db650e379c77b03c3125a219997cd6a6/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/f1ba9cc0f9c1aa6426bbd9df7a2174d5/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/a9e8357b7935cfc81b2eae1c2ad9aaf3/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/b8bf0c4c2b5c80690e104e516d444cf9/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/172ae1a6bfcda127e4d14d92b5158516/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/d56a5c6dfc52cc8394dd90b5f6fc6587/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/393c6b3ef82f5043e111bf20a652f963/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/5f37b0b2bb373e642111dd7c6989ff5e/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/fcc28c6aafc286e8b69b9fd8644f1ac6/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/4c20bdb9f5d855cb3be2124163019a2e/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/99daf7747cea13782e9bd9780ed2151a/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/6fd74d379bb6c4739c6876d3f1642800/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/81bc6d98597443454806b1459bf65666/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/0588069a90e03a5cd86b3d6042dead4c/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/f3b8928252403d205c776984bcb6e0a4/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/f0d289721b53a6c3d25d95f1791d3075/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/60d6f349633197cac8072d6973fd465a/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/e94b064e601eff2780ad81f18b4be1de/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/8076454cb70b87cf81044473eb907b93/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.microsoft.appcenter:appcenter:4.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/e82e4cf0593ec58651104e51a6b6cb99/jetified-appcenter-4.3.1/AndroidManifest.xml:6:1-18:12
+INJECTED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml:3:11-54
+		INJECTED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/5b69024249717f8e3ed5b2bbee8b5fd9/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/5b69024249717f8e3ed5b2bbee8b5fd9/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/582ca692153ed8b3736f59cd51d94f7f/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/582ca692153ed8b3736f59cd51d94f7f/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.5.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/a9e8357b7935cfc81b2eae1c2ad9aaf3/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/a9e8357b7935cfc81b2eae1c2ad9aaf3/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/4c20bdb9f5d855cb3be2124163019a2e/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/4c20bdb9f5d855cb3be2124163019a2e/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/a9e8357b7935cfc81b2eae1c2ad9aaf3/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml:11:13-44
+activity#com.abnamro.apps.referenceandroid.MainActivity
+ADDED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml:14:17-49
+	android:theme
+		ADDED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml:15:17-60
+	android:name
+		ADDED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml:13:17-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml:18:17-76
+	android:name
+		ADDED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.4.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/5b69024249717f8e3ed5b2bbee8b5fd9/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/5b69024249717f8e3ed5b2bbee8b5fd9/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/582ca692153ed8b3736f59cd51d94f7f/constraintlayout-2.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/582ca692153ed8b3736f59cd51d94f7f/constraintlayout-2.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/5a86747797247a65025e60d8f4ae93fb/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/5a86747797247a65025e60d8f4ae93fb/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.microsoft.appcenter:appcenter-analytics:4.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/fd6348bd075ce5fcab725cb990380bf2/jetified-appcenter-analytics-4.3.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter-analytics:4.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/fd6348bd075ce5fcab725cb990380bf2/jetified-appcenter-analytics-4.3.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter-crashes:4.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/7e7269d99bfbd31277914d9f2eed98c0/jetified-appcenter-crashes-4.3.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter-crashes:4.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/7e7269d99bfbd31277914d9f2eed98c0/jetified-appcenter-crashes-4.3.1/AndroidManifest.xml:11:5-13:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/cb2f96d552a6c99c3f7bacf9dcccddce/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/cb2f96d552a6c99c3f7bacf9dcccddce/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/70710028c79e1a7ae3b3682207f9e033/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/70710028c79e1a7ae3b3682207f9e033/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/39f710bea80f8a757dbcc48680d1b08f/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/39f710bea80f8a757dbcc48680d1b08f/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/d5975f29b8fcf0bf9ea8b6dc3af61e87/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/d5975f29b8fcf0bf9ea8b6dc3af61e87/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/75d8f1b8953da6d642f7e4e5c203bb68/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/75d8f1b8953da6d642f7e4e5c203bb68/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/d0051fc3722aa65dab192caab9e03931/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/d0051fc3722aa65dab192caab9e03931/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/8db662a867120feba6ce1c8ca1404f6f/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/8db662a867120feba6ce1c8ca1404f6f/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/ba8d23e2ae8498851f1c48527695a88c/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/ba8d23e2ae8498851f1c48527695a88c/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/d178efe9520d51d195bc154575b131d5/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/d178efe9520d51d195bc154575b131d5/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/13d2724e225fc08e6fce7109bf77608c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/13d2724e225fc08e6fce7109bf77608c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/2b53d45d39d47260d5de45439c0c50b2/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/2b53d45d39d47260d5de45439c0c50b2/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/35b7881dc0174b6c5c0cfa4aa95ff02b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/35b7881dc0174b6c5c0cfa4aa95ff02b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/443f4e0f23b943592c36fdfc7fc4839f/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/443f4e0f23b943592c36fdfc7fc4839f/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/db650e379c77b03c3125a219997cd6a6/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/db650e379c77b03c3125a219997cd6a6/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/f1ba9cc0f9c1aa6426bbd9df7a2174d5/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/f1ba9cc0f9c1aa6426bbd9df7a2174d5/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/a9e8357b7935cfc81b2eae1c2ad9aaf3/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/a9e8357b7935cfc81b2eae1c2ad9aaf3/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/b8bf0c4c2b5c80690e104e516d444cf9/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/b8bf0c4c2b5c80690e104e516d444cf9/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/172ae1a6bfcda127e4d14d92b5158516/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/172ae1a6bfcda127e4d14d92b5158516/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/d56a5c6dfc52cc8394dd90b5f6fc6587/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/d56a5c6dfc52cc8394dd90b5f6fc6587/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/393c6b3ef82f5043e111bf20a652f963/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/393c6b3ef82f5043e111bf20a652f963/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/5f37b0b2bb373e642111dd7c6989ff5e/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/5f37b0b2bb373e642111dd7c6989ff5e/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/fcc28c6aafc286e8b69b9fd8644f1ac6/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/fcc28c6aafc286e8b69b9fd8644f1ac6/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/4c20bdb9f5d855cb3be2124163019a2e/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/4c20bdb9f5d855cb3be2124163019a2e/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/99daf7747cea13782e9bd9780ed2151a/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/99daf7747cea13782e9bd9780ed2151a/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/6fd74d379bb6c4739c6876d3f1642800/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/6fd74d379bb6c4739c6876d3f1642800/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/81bc6d98597443454806b1459bf65666/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/81bc6d98597443454806b1459bf65666/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/0588069a90e03a5cd86b3d6042dead4c/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/0588069a90e03a5cd86b3d6042dead4c/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/f3b8928252403d205c776984bcb6e0a4/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/f3b8928252403d205c776984bcb6e0a4/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/f0d289721b53a6c3d25d95f1791d3075/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/f0d289721b53a6c3d25d95f1791d3075/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/60d6f349633197cac8072d6973fd465a/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/60d6f349633197cac8072d6973fd465a/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/e94b064e601eff2780ad81f18b4be1de/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/e94b064e601eff2780ad81f18b4be1de/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/8076454cb70b87cf81044473eb907b93/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/8076454cb70b87cf81044473eb907b93/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.microsoft.appcenter:appcenter:4.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/e82e4cf0593ec58651104e51a6b6cb99/jetified-appcenter-4.3.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter:4.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/e82e4cf0593ec58651104e51a6b6cb99/jetified-appcenter-4.3.1/AndroidManifest.xml:11:5-13:41
+INJECTED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/berk.altay/Downloads/testersassessment-android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.microsoft.appcenter:appcenter:4.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/e82e4cf0593ec58651104e51a6b6cb99/jetified-appcenter-4.3.1/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter:4.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/e82e4cf0593ec58651104e51a6b6cb99/jetified-appcenter-4.3.1/AndroidManifest.xml:15:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.microsoft.appcenter:appcenter:4.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/e82e4cf0593ec58651104e51a6b6cb99/jetified-appcenter-4.3.1/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter:4.3.1] /Users/berk.altay/.gradle/caches/transforms-2/files-2.1/e82e4cf0593ec58651104e51a6b6cb99/jetified-appcenter-4.3.1/AndroidManifest.xml:16:22-76

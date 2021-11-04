@@ -1,0 +1,2 @@
+com/abnamro/apps/referenceandroid/BuildConfig.java
+ com.abnamro.apps.referenceandroid.BuildConfig

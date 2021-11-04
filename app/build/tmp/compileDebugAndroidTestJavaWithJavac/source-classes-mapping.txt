@@ -1,0 +1,8 @@
+com/abnamro/apps/referenceandroid/test/BuildConfig.java
+ com.abnamro.apps.referenceandroid.test.BuildConfig
+com/abnamro/apps/referenceandroid/pageObjects/homeScreen.java
+ com.abnamro.apps.referenceandroid.pageObjects.homeScreen
+com/abnamro/apps/referenceandroid/test/homeScreenTests.java
+ com.abnamro.apps.referenceandroid.test.homeScreenTests
+com/abnamro/apps/referenceandroid/comLib/testMethods.java
+ com.abnamro.apps.referenceandroid.comLib.testMethods
